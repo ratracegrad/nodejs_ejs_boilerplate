@@ -22,7 +22,6 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.4.1",
-    "express": "^4.13.4",
-    "serve-favicon": "^2.3.0"
+    "express": "^4.13.4"
   }
 }
